@@ -1,4 +1,8 @@
 # clock-js
+
+![](./images/clock-js_image.png)
+
+## Description
 A clock built with Javascript
 
 ## Credits:
